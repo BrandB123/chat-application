@@ -3,19 +3,19 @@
 CHAT APP
 
 TO DO:
-1.) Research microservice architecture
-2.) Research domain driven design and Model-View Controller and Hexagonal Architecture
-3.) Research data normalization
-4.) Research Dependency Injection
-5.) Design database
-    a.) what data is needed?
-    b.) CRUD operations
-    c.) Indexes? Aggregations? Transactions?
-    d.) what is the shape of the data?
-6.) Design backend
-    a.) 
-7.) Design frontend
-    a.)
+ - Research microservice architecture
+ - Research domain driven design and Model-View Controller and Hexagonal Architecture
+ - Research data normalization
+ - Research Dependency Injection
+ - Design database
+     - what data is needed?
+     - CRUD operations
+     - Indexes? Aggregations? Transactions?
+     - what is the shape of the data?
+ -  Design backend
+     -  
+ -  Design frontend
+     - 
 
 DB
  STACK
