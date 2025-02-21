@@ -89,9 +89,9 @@ Architectural/Design Principals to Keep in Mind:
 
 Plan of Execution:
  - Database:
-   - ~~set up mongo cluster
-   - ~~set up mongo database
-   - ~~set up mongo collections
+   - ~~set up mongo cluster~~
+   - ~~set up mongo database~~
+   - ~~set up mongo collections~~
  - Backend:
    - set up backend repo
    - install dependencies
