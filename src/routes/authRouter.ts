@@ -30,6 +30,9 @@ router.get("/", (req: Request, res: Response) => {
     res.send("Hello from the auth router");
 })
 
+// user signs up for an acccount
+router.post("/signup", (req:Reqeust, res: Response) => {res.sedn("TODO"})
+
 // user submits email for magic link to be sent to
 router.post("/login", async (req: Request, res: Response) => {
     // GET EMAIL FROM REQUEST
@@ -67,6 +70,9 @@ router.post("/login", async (req: Request, res: Response) => {
     res.json(JSON.stringify(user));
     // res.send("work in progress");
 })
+
+// user submits code obtained from magic link sent to email
+router.post("/confirm", (req: Request, res: Response) => {res.send("TODO"});
 
 
 
