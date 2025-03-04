@@ -87,6 +87,9 @@ web_modules/
 .next
 out
 
+# Nodemon
+nodemon.json
+
 # Nuxt.js build / generate output
 .nuxt
 dist
