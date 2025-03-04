@@ -1,9 +1,11 @@
 /*
 TO DO
  - separate into separate files
+ - update to mongoose
  - input validation review
  - review data that is being returned in response
  - implement errors and error handling
+ - outline other auth routes
 */
 
 
